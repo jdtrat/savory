@@ -20,3 +20,5 @@ Imports:
     ggplot2
 Suggests: 
     magrittr
+URL: https://github.com/jdtrat/savory
+BugReports: https://github.com/jdtrat/savory/issues
